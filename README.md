@@ -1,4 +1,4 @@
-# 🤖 Simple Q&A System 
+# 🤖 Simple Q&A (Low IQ) System 
 
 A lightweight **Q&A application** built with **Streamlit**, **LangChain**, and **Hugging Face (GPT-2 Medium)**.  
 It uses **Wikipedia** and **DuckDuckGo web search** as context sources to answer user questions.
