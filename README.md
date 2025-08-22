@@ -5,6 +5,7 @@ It uses **Wikipedia** and **DuckDuckGo web search** as context sources to answer
 
 This project was developed during the **Estarta Training Program**.
 
+## Link 'http://192.168.1.86:8501'
 ---
 
 ## 🚀 Features
